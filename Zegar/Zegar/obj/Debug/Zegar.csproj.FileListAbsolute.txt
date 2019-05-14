@@ -1,0 +1,30 @@
+c:\users\jminge\source\repos\Zegar\Zegar\bin\Debug\Zegar.exe.config
+c:\users\jminge\source\repos\Zegar\Zegar\bin\Debug\Zegar.exe
+c:\users\jminge\source\repos\Zegar\Zegar\bin\Debug\Zegar.pdb
+c:\users\jminge\source\repos\Zegar\Zegar\obj\Debug\Zegar.csprojAssemblyReference.cache
+c:\users\jminge\source\repos\Zegar\Zegar\obj\Debug\Zegar.Form1.resources
+c:\users\jminge\source\repos\Zegar\Zegar\obj\Debug\Zegar.Properties.Resources.resources
+c:\users\jminge\source\repos\Zegar\Zegar\obj\Debug\Zegar.csproj.GenerateResource.cache
+c:\users\jminge\source\repos\Zegar\Zegar\obj\Debug\Zegar.csproj.CoreCompileInputs.cache
+c:\users\jminge\source\repos\Zegar\Zegar\obj\Debug\Zegar.exe
+c:\users\jminge\source\repos\Zegar\Zegar\obj\Debug\Zegar.pdb
+C:\Users\Minge\source\repos\Zegar 2\Zegar\Zegar\bin\Debug\Zegar.exe.config
+C:\Users\Minge\source\repos\Zegar 2\Zegar\Zegar\bin\Debug\Zegar.exe
+C:\Users\Minge\source\repos\Zegar 2\Zegar\Zegar\bin\Debug\Zegar.pdb
+C:\Users\Minge\source\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.Form1.resources
+C:\Users\Minge\source\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.Properties.Resources.resources
+C:\Users\Minge\source\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.csproj.GenerateResource.Cache
+C:\Users\Minge\source\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.csproj.CoreCompileInputs.cache
+C:\Users\Minge\source\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.exe
+C:\Users\Minge\source\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.pdb
+C:\Users\Minge\source\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.csprojResolveAssemblyReference.cache
+C:\Users\julek\Studia\repos\Zegar 2\Zegar\Zegar\bin\Debug\Zegar.exe.config
+C:\Users\julek\Studia\repos\Zegar 2\Zegar\Zegar\bin\Debug\Zegar.exe
+C:\Users\julek\Studia\repos\Zegar 2\Zegar\Zegar\bin\Debug\Zegar.pdb
+C:\Users\julek\Studia\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.csprojAssemblyReference.cache
+C:\Users\julek\Studia\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.Form1.resources
+C:\Users\julek\Studia\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.Properties.Resources.resources
+C:\Users\julek\Studia\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.csproj.GenerateResource.cache
+C:\Users\julek\Studia\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.csproj.CoreCompileInputs.cache
+C:\Users\julek\Studia\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.exe
+C:\Users\julek\Studia\repos\Zegar 2\Zegar\Zegar\obj\Debug\Zegar.pdb
